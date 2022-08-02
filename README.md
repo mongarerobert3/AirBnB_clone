@@ -29,8 +29,21 @@ This directory contains all unit tests.
 # Console.py
 This file is the entry point of our command interpreter.
 
+
 # The command interpreter
 ---------------------------
 # How to start
+The code for the command interpreter is in console.py.
+
+To start the console, type ./console.py or python3 console.py in the directory console.py is in. This will make the command prompt (hbnb) appear on your terminal.
 # How to use
+The console accepts the following commands: EOF (CTRL+D), quit, create, show, destroy, all, and update.
+
+Command completion and command history are supported.
+
+Entering <TAB> will autocomplete or show you the options for autocompletion.
+
+# EOF and Quit
+Typing CTRL+D or quit into the console will exit the console.
+
 # Examples
