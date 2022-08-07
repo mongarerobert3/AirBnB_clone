@@ -47,3 +47,10 @@ Entering <TAB> will autocomplete or show you the options for autocompletion.
 Typing CTRL+D or quit into the console will exit the console.
 
 # Examples
+
+# Authors
+Robert Mong'are -
+Adam Keino -
+
+# License
+Public Domain. No copyright protection. 
