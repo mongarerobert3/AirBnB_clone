@@ -49,7 +49,7 @@ Typing CTRL+D or quit into the console will exit the console.
 # Examples
 
 # Authors
-Robert Mong'are -
+Robert Mong'are - 
 Adam Keino -
 
 # License
